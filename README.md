@@ -1,3 +1,3 @@
 # CenterOS-AfterInstallSetup
-The custom OOBE for CenterOS V4.
-WARNING: This project will no longer be worked on.
+The custom OOBE for visualOS 1.1(formerly known as CenterOS V4).
+# THIS APPLICATION HAS NOW BEEN DISCONTINUED AND WILL NOT BE UPDATED ANYMORE.
